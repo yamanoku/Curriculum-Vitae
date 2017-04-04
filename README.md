@@ -1,68 +1,134 @@
 # 職務経歴書
 
-## 基本情報
+## Basic Infomation
 
 |key|value|
 |---|-----|
-|Name|ふー　ばー (Foo Bar))|
-|Blog|[ふーばーブログ](http://foobar.blog.com)|
-|Twitter|[@foobar](https://twitter.com/foobar)|
-|Qiita|[foobar](http://qiita.com/foobar)|
-|SlideShare|[foobar](http://www.slideshare.net/foobar)|
-|Speakerdeck|[foobar](https://speakerdeck.com/foobar)|
+|Name|<ruby><rb>大山 奥人<rb><rt>おおやま おくと</rt></ruby>|
+|Site|[oyamaokuto.org](http://oyamaokuto.org)|
+|TechBlog|[やまろぐはてな](http://yamanoku.hatenablog.com)|
+|Twitter|[@yamanoku](https://twitter.com/yamanoku)|
+|Qiita|[yamanoku](http://qiita.com/yamanoku)|
+|Facebook|[yamanoku](https://www.facebook.com/yamanoku)|
+|Tumblr|[yamanoku](http://yamanoku.tumblr.com)|
 
-## スキル
+## Skill
 
-### 言語
+- HTML
+	- xhtml
+	- HTML5
+- CSS
+- Javascript
+	- jQuery
+	- React
+	- Vue.js
+	- Node.js
+- テンプレートエンジン
+	- Pug(Jade)
+	- sass
+	- Stylus
+- タスクランナー
+	- gulp
+	- webpack
+	- grunt
+- wordpress
+- Git (CUI)
 
-- プログラミング言語
+## Editor
 
-- 日本語
-  - ネイティブ
-- 英語（例）
-  - かんたんな日常会話ができる（例）
+- Sublime Text -- main
+- Atom
+- Dreamweaver
+- vim
 
-### フレームワーク
+## Working Experience
 
-- Framework名
-  - 関わった製品やポートフォリオがあればそのリンクを貼る
+|key|value|
+|---|-----|
+|会社名|株式会社GEEK|
+|勤務期間|2015/09 ～ |
+|職種|マークアップ・フロントエンドエンジニア|
+|雇用形態|正社員|
+|事業内容|Webフロントエンド開発・自社サービス開発|
+|従業員数|14名|
 
-### その他
+### メンバー内訳
 
-- 言語やフレームワークに限らないスキル。開発手法やプロセス、ツールなど
+- Webディレクター 4名
+- Webデザイナー 4名
+- マークアップ・フロントエンドエンジニア 4名（本人）
+- 事務担当 2名
 
-## 強み
+#### 制作実績
 
-## やったことはないが興味があるもの
+---
 
-## 登壇歴
+|key|value|
+|---|-----|
+|会社名|株式会社イーサイバー|
+|勤務期間|2014/10 ～ 2015/06|
+|職種|ディレクション・デザイナー・エンジニア|
+|雇用形態|正社員|
+|事業内容|Webサイト制作・CMS運用業務|
+|従業員数|16名（当時）|
 
-## 受賞歴
+### Web制作部所属のメンバー内訳
 
-## 執筆歴
+- Webディレクター4名（本人）
+- Webデザイナー・コーダー 3名
+- サーバーエンジニア 4名
 
-### 商業
+#### 制作実績
 
-### 同人
+**クライアント：順天堂大学スポーツ健康科学部**
 
-## 職務経歴
+- 制作概要：既存サイトのデザインリニューアル
+- URL：http://www.juntendo.ac.jp/hss/
+- 担当業務：メインページ・第2階層以下のデザイン・コーディング、CMSの運用指導・サポート対応
 
-### yyyy/mm - : 会社名
+**クライアント：城西大学**
 
-職務: Webアプリケーションエンジニア（例）
+- 制作概要：受験生向けサイト制作
+- URL：http://www.josai.ac.jp/admission
+- 担当業務：メインページ・第2階層以下のデザイン・コーディング、CMSの運用指導・サポート対応
 
-#### 職務内容の名前（レストラン検索とか）
+**クライアント：桜田通り総合法律相談事務所**
 
-- 職務内容の詳細を箇条書きでかく
+- 制作概要：新規サイト構築
+- URL：http://skrd.jp
+- 担当業務：メインページ・第2階層以下のレスポンシブコーディング
 
-#### 職務内容の名前（レストラン検索とか）
+**クライアント：明治大学付属中野中学・高等学校**
 
-- 職務内容の詳細を箇条書きでかく
+- 制作概要：既存サイトのデザインリニューアル
+- URL：http://meinaka.jp/
+- 担当業務：メインページ・第2階層以下のデザイン・レスポンシブコーディング、CMSの運用指導・サポート対応
 
-### yyyy/mm - yyyy/mm: （前職の企業名。あれば）
+#### 運用サポート
 
-職務: サーバーサイドエンジニア
+**クライアント：東京電機大学**
 
-#### 職務内容の名前（レストラン検索とか）
+- URL：http://web.dendai.ac.jp/
+- 担当業務：運用サポート、受験生向け企画ページ作成、サイト年度更新 等
 
-- 職務内容の詳細を箇条書きでかく
+**クライアント：三井不動産住宅リース 新卒採用サイト**
+
+- 担当業務：サイト年度更新、コンテンツ更新作業
+
+クライアント向けWebサイト（主に大学・教育系）の更新業務からデザインおよびHTMLコーディング業務を経験し、
+制作後の運用指導や迅速なサポートなどクライアントとのやり取り、制作工程における作業経験を積むことができました。
+
+---
+
+|key|value|
+|---|-----|
+|会社名|アデコ株式会社|
+|勤務期間|2013/10 ～ 2014/09|
+|職種|Webコンテンツ編集|
+|雇用形態|派遣社員|
+
+派遣先：[株式会社エイト・ソーシャルウェア](http://www.e-sw.co.jp/)
+
+アプリ形式のゲームやコミックなどをダウンロードできるモバイル電子出版サイトのコンテンツ制作・運営
+
+URL：http://csbs.shogakukan.co.jp/
