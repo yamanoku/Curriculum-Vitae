@@ -42,6 +42,7 @@
 	- Material Design Lite
 	- skeleton
 	- CakePHP
+	- PostCSS
 - タスクランナー
 	- gulp
 	- webpack
@@ -56,8 +57,9 @@
 ### エディター
 - Sublime Text <= メインエディタ
 - Atom
-- Dreamweaver
 - vim
+- Dreamweaver
+- Visual Studio Code
 
 ### その他
 - タスク管理
@@ -65,6 +67,7 @@
 - ツール
 	- Git (CUI)
 	- iTerm
+	- Docker
 	- Adobe Photoshop
 	- Adobe Illustrator
 	- Gyazo (Gif)
@@ -84,12 +87,14 @@ http://github.com/yamanoku
 
 - Malachite
 	- Wordpressテーマ処女作
+	- Docker-composeにて動作確認済み
 	- https://github.com/yamanoku/malachite
 - vue_portfolio_templete
 	- Vue.js製のポートフォリオテンプレート
+	- Vue ver 1.0.0
 	- https://github.com/yamanoku/vue_portfolio_templete
-- http://yamanoku.github.io
-	- 細かなコーディング成果物（＋社内LT集）
+- そのほか成果物
+	- https://yamanoku.github.io
 
 ### Tumblr (Artworks)
 http://yamagraph.tumblr.com
@@ -107,7 +112,7 @@ http://yamagraph.tumblr.com
 - Webディレクター 4名
 - Webデザイナー 4名
 - マークアップ・フロントエンドエンジニア 4名（本人）
-- 事務担当 2名
+- EC＆事務担当 2名
 
 受託開発やリニューアル・サイト制作をメインとして、マークアップ・フロントエンド業務に携わる。
 
