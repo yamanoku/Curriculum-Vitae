@@ -5,12 +5,12 @@
 |key|value|
 |---|-----|
 |Name|<ruby><rb>大山 奥人<rb><rt>おおやま おくと</rt></ruby>|
-|Site|[oyamaokuto.org](http://oyamaokuto.org)|
+|Site|[yamanoku.net](https://yamanoku.net/)|
 |TechBlog|[やまろぐはてな](http://yamanoku.hatenablog.com)|
 |Twitter|[@yamanoku](https://twitter.com/yamanoku)|
-|Qiita|[yamanoku](http://qiita.com/yamanoku)|
+|Qiita|[yamanoku](https://qiita.com/yamanoku)|
 |Facebook|[yamanoku](https://www.facebook.com/yamanoku)|
-|Tumblr|[yamanoku](http://yamanoku.tumblr.com)|
+|Tumblr|[yamanoku](https://tumblr.yamanoku.net/)|
 
 ### 長所・強み
 - エンジニア業務のほかデザインや設計などにも関心・理解がある
@@ -80,6 +80,8 @@
 https://speakerdeck.com/yamanoku/material-designtohahe-kawozhi-ruhui
 ### 敵を知り己を知ればXSS危うからず
 http://blog.geek.co.jp/archives/1309
+### stylelint社内勉強会資料
+https://qiita.com/yamanoku/items/73ffecc8955b1fcbdcc7
 
 ## プライベートワーク
 ### Github (Codes)
@@ -90,9 +92,14 @@ http://github.com/yamanoku
 	- Docker-composeにて動作確認済み
 	- https://github.com/yamanoku/malachite
 - vue_portfolio_templete
-	- Vue.js製のポートフォリオテンプレート
-	- Vue ver 1.0.0
+	- Vue.js製ポートフォリオテンプレート
+	- Vue ver2.5.2
 	- https://github.com/yamanoku/vue_portfolio_templete
+- birthday-countdown-js
+	- 誕生日までのカウントダウンタイマー
+	- 当日になったら欲しい物リストリンク表示
+	- 過ぎたら翌日から自動的に来年のものに更新されます。
+	- https://yamanoku.net/birthday-countdown-js/
 - そのほか成果物
 	- https://yamanoku.github.io
 
