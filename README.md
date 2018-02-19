@@ -23,36 +23,59 @@
 - 他者の技術など応用ができそうなものは積極的に取り入れる
 
 ### スキル
-- HTML
+- html（W3C Conformance）
+	- html5
+	- pug (jade)
 	- xhtml
-	- HTML5
+- WAI-ARIA
 - CSS3
-- Javascript
-	- jQuery
-	- ES2016
-	- Node.js
-- テンプレートエンジン
-	- Pug(Jade)
-	- sass
-	- Stylus
-- フレームワーク
-	- React + Flux
-	- Vue.js（vue-cli）
+	- Sass
+	- PostCSS
+	- stylus
+	- less
+	- csscomb
+- CSS Concept Design
+	- ECSS
+		- [ECSS Doc Translation](https://ecssdoc.yamanoku.net/)
+	- BEM
+	- FLOCSS
+- CSS Framework
 	- Bootstrap
 	- Material Design Lite
 	- skeleton
-	- CakePHP
-	- PostCSS
-- タスクランナー
+- JavaScript
+	- Vue.js > 2.x
+		- Nuxt.js
+		- vue-router
+		- vue-meta
+	- React.js
+		- styled-components
+		- Flux
+	- ES6
+	- VanillaJS
+	- jQuery > 3.x
+	- TypeScript
 	- gulp
 	- webpack
-	- grunt
-- パッケージマネージャ
-	- npm
-	- yarn
-- CMS
-	- WordPress
-	- jobcube
+	- Node.js
+		- yarn
+		- npm
+- WordPress
+- Git（CUI）
+	- Github
+	- BitBucket
+- shell
+	- zsh
+	- bash
+- Circle CI
+- AWS
+	- Route53
+	- EC2
+	- Certificate Manager
+- Netlify
+- Docker
+	- docker-compose
+- Heroku
 
 ### エディター
 - Sublime Text <= メインエディタ
@@ -62,26 +85,35 @@
 - Visual Studio Code
 
 ### その他
-- タスク管理
-	- backlog
-- ツール
-	- Git (CUI)
-	- iTerm
-	- Docker
-	- Adobe Photoshop
-	- Adobe Illustrator
-	- Gyazo (Gif)
-	- Slack
-	- chatwork
-	- Trello
+- backlog
+- iTerm
+- Adobe Photoshop
+- Adobe Illustrator
+- Gyazo (Gif)
+- Slack
+- chatwork
+- Trello
+- Sketch
+- Zeplin
+- Prott
 
 ## 寄稿・スライドなど
 ### Material Designとは何かを知る会
 https://speakerdeck.com/yamanoku/material-designtohahe-kawozhi-ruhui
 ### 敵を知り己を知ればXSS危うからず
 http://blog.geek.co.jp/archives/1309
+### プレイバック・テック2017
+http://blog.geek.co.jp/archives/1877
+### HTMLからウェブサイトのあり方を見直す。
+http://blog.geek.co.jp/archives/1983
 ### stylelint社内勉強会資料
 https://qiita.com/yamanoku/items/73ffecc8955b1fcbdcc7
+### LT
+- [猫のすすめ](https://yamanoku.net/LT/lt01/)
+- [好きなことについて語るープロレスLT](https://yamanoku.net/LT/lt02/)
+- [ガァルマゲドンについて語る #嫁ラブ](https://yamanoku.net/LT/lt03/)
+- [情報収集ってどうしてる？ ](https://yamanoku.net/LT/lt04/)
+- [まもなく娘生誕２周年だよ全員集合](https://yamanoku.net/LT/lt05/)
 
 ## プライベートワーク
 ### Github (Codes)
@@ -101,10 +133,10 @@ http://github.com/yamanoku
 	- 過ぎたら翌日から自動的に来年のものに更新されます。
 	- https://yamanoku.net/birthday-countdown-js/
 - そのほか成果物
-	- https://yamanoku.github.io
+	- https://yamanoku.net
 
 ### Tumblr (Artworks)
-http://yamagraph.tumblr.com
+https://yamagraph.tumblr.com
 
 ## 職務経歴
 ### 株式会社GEEK - 2015/09 ～
@@ -116,7 +148,7 @@ http://yamagraph.tumblr.com
 |従業員数|14名|
 
 #### 従業員内訳
-- Webディレクター 4名
+- Webディレクター 5名
 - Webデザイナー 4名
 - マークアップ・フロントエンドエンジニア 4名（本人）
 - EC＆事務担当 2名
@@ -127,7 +159,7 @@ http://yamagraph.tumblr.com
 - レスポンシブ、アダプティブの各デザインにおける最適なマークアップ
 - AtomicDesignにおけるパーツ単位からのUIデザインへの理解
 - 更新・保守関連の対応やプロジェクトwikiまとめなどの品質維持・情報共有に関して徹底
-- 最新の業界ニュース共有、社内勉強会（MaterialDesign）ほか業務改善案などにも積極的に提案
+- 最新の業界ニュース共有、社内勉強会ほか業務改善案などにも積極的に提案
 
 ---
 
