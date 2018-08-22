@@ -79,6 +79,14 @@
 	- docker-compose
 - Heroku
 
+### Studying
+- PWA
+- Inclusive design
+- Web Security Skill（XSS, SRI, ...etc）
+- BlockChain
+- API Design（REST FUL, GraphQL）
+- ServerSide（Rust, Ruby, Python）
+
 ### エディター
 - Visual Studio Code（メイン）
 - Sublime Text
