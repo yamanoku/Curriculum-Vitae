@@ -50,6 +50,7 @@
 		- vue-meta
 	- React.js
 		- styled-components
+		- Redux
 		- Flux
 	- ES6
 	- VanillaJS
@@ -68,6 +69,7 @@
 	- zsh
 	- bash
 - Circle CI
+- Travis CI
 - AWS
 	- Route53
 	- EC2
@@ -78,13 +80,14 @@
 - Heroku
 
 ### エディター
-- Sublime Text <= メインエディタ
+- Visual Studio Code（メイン）
+- Sublime Text
 - Atom
 - vim
 - Dreamweaver
-- Visual Studio Code
 
 ### その他
+- Scrapbox
 - backlog
 - iTerm
 - Adobe Photoshop
@@ -100,12 +103,14 @@
 ## 寄稿・スライドなど
 ### Material Designとは何かを知る会
 https://speakerdeck.com/yamanoku/material-designtohahe-kawozhi-ruhui
+### Nota社主催でScrapbox勉強会をやってもらった話
+https://blog.geek.co.jp/archives/2411
 ### 敵を知り己を知ればXSS危うからず
-http://blog.geek.co.jp/archives/1309
+https://blog.geek.co.jp/archives/1309
 ### プレイバック・テック2017
-http://blog.geek.co.jp/archives/1877
+https://blog.geek.co.jp/archives/1877
 ### HTMLからウェブサイトのあり方を見直す。
-http://blog.geek.co.jp/archives/1983
+https://blog.geek.co.jp/archives/1983
 ### stylelint社内勉強会資料
 https://qiita.com/yamanoku/items/73ffecc8955b1fcbdcc7
 ### LT
@@ -132,11 +137,20 @@ http://github.com/yamanoku
 	- 当日になったら欲しい物リストリンク表示
 	- 過ぎたら翌日から自動的に来年のものに更新されます。
 	- https://yamanoku.net/birthday-countdown-js/
-- そのほか成果物
-	- https://yamanoku.net
+- Reading...
+	- 日頃閲覧してきたニュースやサイトをリスト化
+	- PWA
+	- https://reading.yamanoku.net
+- yamanoku CLI
+	- CLIコマンドによるポートフォリオ
+	- npm package
+	- https://www.npmjs.com/package/yamanoku
 
 ### Tumblr (Artworks)
 https://yamagraph.tumblr.com
+
+### そのほか成果物
+https://scrapbox.io/yamanoku/portfolio
 
 ## 職務経歴
 ### 株式会社GEEK - 2015/09 ～
@@ -149,8 +163,8 @@ https://yamagraph.tumblr.com
 
 #### 従業員内訳
 - Webディレクター 5名
-- Webデザイナー 4名
-- マークアップ・フロントエンドエンジニア 4名（本人）
+- Webデザイナー 3名
+- マークアップ・フロントエンドエンジニア 6名（本人）
 - EC＆事務担当 2名
 
 受託開発やリニューアル・サイト制作をメインとして、マークアップ・フロントエンド業務に携わる。
