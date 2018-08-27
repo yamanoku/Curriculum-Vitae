@@ -6,7 +6,7 @@
 |---|-----|
 |Name|<ruby><rb>大山 奥人<rb><rt>おおやま おくと</rt></ruby>|
 |Site|[yamanoku.net](https://yamanoku.net/)|
-|TechBlog|[やまろぐはてな](http://yamanoku.hatenablog.com)|
+|scrapbox|[scrapbox.io/yamanoku/](https://scrapbox.io/yamanoku/)|
 |Twitter|[@yamanoku](https://twitter.com/yamanoku)|
 |Qiita|[yamanoku](https://qiita.com/yamanoku)|
 |Facebook|[yamanoku](https://www.facebook.com/yamanoku)|
@@ -48,6 +48,7 @@
 		- Nuxt.js
 		- vue-router
 		- vue-meta
+		- vue-press
 	- React.js
 		- styled-components
 		- Redux
@@ -56,11 +57,15 @@
 	- VanillaJS
 	- jQuery > 3.x
 	- TypeScript
-	- gulp
+	- Gulp => 4
 	- webpack
 	- Node.js
 		- yarn
 		- npm
+- Lint
+	- stylelint
+		- [@yamanoku/stylelint](https://www.npmjs.com/package/@yamanoku/stylelint-config)
+	- eslint
 - WordPress
 - Git（CUI）
 	- Github
@@ -88,7 +93,7 @@
 - ServerSide（Rust, Ruby, Python）
 
 ### エディター
-- Visual Studio Code（メイン）
+- Visual Studio Code *
 - Sublime Text
 - Atom
 - vim
@@ -125,7 +130,7 @@ https://qiita.com/yamanoku/items/73ffecc8955b1fcbdcc7
 - [猫のすすめ](https://yamanoku.net/LT/lt01/)
 - [好きなことについて語るープロレスLT](https://yamanoku.net/LT/lt02/)
 - [ガァルマゲドンについて語る #嫁ラブ](https://yamanoku.net/LT/lt03/)
-- [情報収集ってどうしてる？ ](https://yamanoku.net/LT/lt04/)
+- [情報収集ってどうしてる？](https://yamanoku.net/LT/lt04/)
 - [まもなく娘生誕２周年だよ全員集合](https://yamanoku.net/LT/lt05/)
 
 ## プライベートワーク
@@ -175,12 +180,13 @@ https://scrapbox.io/yamanoku/portfolio
 - マークアップ・フロントエンドエンジニア 6名（本人）
 - EC＆事務担当 2名
 
-受託開発やリニューアル・サイト制作をメインとして、マークアップ・フロントエンド業務に携わる。
+主に受託開発やリニューアル・サイト制作をメインとして、マークアップ・フロントエンド業務に携わる。
 
 - W3C Markup Validation Serviceなどを通してHTMLの品質遵守を常に心がける
 - レスポンシブ、アダプティブの各デザインにおける最適なマークアップ
 - AtomicDesignにおけるパーツ単位からのUIデザインへの理解
 - 更新・保守関連の対応やプロジェクトwikiまとめなどの品質維持・情報共有に関して徹底
+- パフォーマンス改善・向上案件への参加
 - 最新の業界ニュース共有、社内勉強会ほか業務改善案などにも積極的に提案
 
 ---
@@ -198,7 +204,9 @@ https://scrapbox.io/yamanoku/portfolio
 - Webデザイナー・コーダー 3名
 - サーバーエンジニア 4名
 
-クライアント向けWebサイト（主に大学・教育系）の更新業務から提案・デザインおよびHTMLコーディング業務を経験し、
+<details>
+  <summary>詳細</summary>
+  クライアント向けWebサイト（主に大学・教育系）の更新業務から提案・デザインおよびHTMLコーディング業務を経験し、
 制作後の運用指導や迅速なサポートなどクライアントとのやり取り、一連の作業経験を積むことができた。
 
 #### クライアント
@@ -210,6 +218,8 @@ https://scrapbox.io/yamanoku/portfolio
 - キヤノンビズアテンダ株式会社
 - 三井不動産住宅リース株式会社
 
+</details>
+
 ---
 
 ### アデコ株式会社 - 2012/10 ～ 2013/09
@@ -220,6 +230,8 @@ https://scrapbox.io/yamanoku/portfolio
 
 派遣先：[株式会社エイト・ソーシャルウェア](http://www.e-sw.co.jp/)
 
+<details>
+  <summary>詳細</summary>
 アプリ形式のゲームやコミックなどをダウンロードできるモバイル電子出版サイトのコンテンツ制作・運営。
 
 - メインサイト制作
@@ -230,3 +242,4 @@ https://scrapbox.io/yamanoku/portfolio
 - 更新マニュアル作成
 
 URL：http://csbs.shogakukan.co.jp/
+</details>
