@@ -64,7 +64,7 @@
 		- npm
 - Lint
 	- stylelint
-		- [@yamanoku/stylelint](https://www.npmjs.com/package/@yamanoku/stylelint-config)
+		- [@yamanoku/stylelint-config](https://www.npmjs.com/package/@yamanoku/stylelint-config)
 	- eslint
 - WordPress
 - Git（CUI）
