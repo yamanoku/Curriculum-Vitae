@@ -16,10 +16,13 @@
 - エンジニア業務のほかデザインや設計などにも関心・理解がある
 	- ディレクションやマネジメント方面にも興味がある
 - 業務を円滑にすすめるための環境改善への意欲
-	- チーム内よりも他職務を巻き込んだ全体的な環境
+	- チーム内よりも他職務を巻き込んだ全体的な環境改善
+	- ボトルネックとなり得る問題点への追求
 - リファクタリングなどのコード品質改善、案件ごとのドキュメント、wiki整理
+   - 社内でのScrapbox導入、運用
 - スケジュール・期日遵守への厳格な対応
-	- 仕事の進め方や対応に関して迅速であると評価を受ける
+	- 工数算出時に具体的な実装コストについて非エンジニア業種に説明できる
+	- 仕事の進め方・対応に関して迅速であると評価を受ける
 - 他者の技術など応用ができそうなものは積極的に取り入れる
 
 ### スキル
@@ -85,7 +88,7 @@
 - Heroku
 
 ### Studying
-- PWA
+- PWA（Service Worker、Workbox）
 - Inclusive design
 - Web Security Skill（XSS, SRI, ...etc）
 - BlockChain
@@ -188,6 +191,41 @@ https://scrapbox.io/yamanoku/portfolio
 - 更新・保守関連の対応やプロジェクトwikiまとめなどの品質維持・情報共有に関して徹底
 - パフォーマンス改善・向上案件への参加
 - 最新の業界ニュース共有、社内勉強会ほか業務改善案などにも積極的に提案
+
+<details>
+	<summary>対応案件 詳細</summary>
+
+- 社内求人サイト構築
+	- https://www.geek.co.jp/recruit/
+	- gulp, pug, postCSS, stylelint, webpack, jQuery, Google Maps
+- 某菓子メーカー公式コーポレートサイト リニューアル
+	- 静的実装、アクセシビリティ対応、Webパフォーマンス調整
+	- Vue, axios, owl.carousel, video.js, Masonry, imagesloaded, lity, intersection-observer
+- 糖尿病患者 アンケートフォーム システム開発
+	- React, TypeScript, gulp, webpack, less, Storybook
+- コーヒー販売・通販ショップ公式サイト 検索ページSPA構築
+	- wp-rest-api, Vue.js, vue-router, vue-paginate, axios
+- クラウド型人事管理システム開発
+	- React, Redux, stylus, ES6
+- 某携帯キャリア スマートフォン用アンケートページ モック作成
+	- React, creat-react-app, Redux Form
+- 模型・玩具メーカーエアソフトガンサイト 運用
+	- 一部ページリニューアルでVueを導入
+		- Vue.js, vue-carousel, axios
+- 某電気通信事業者 公式求人サイト構築・運用
+	- WordPress, jQuery, VanillaJS, babel, intersection-observer
+- 某ケーブルTV事業企業 ユーザーボイスページ制作
+	- JS Plugin - Masonry, Velocity
+- ウォールアートプリント販売サイト構築
+	- CakePHP, jQuery, CSS3
+- 某ケーブルTV事業配信 韓流番組情報サイト 保守・運用
+	- HTML5, CSS3, jQuery
+	- 特集ページ新規テンプレート作成
+	- 番組APIを利用したAjax通信
+- JOB-CUBE求人サイト構築・運用
+	- http://jobcube.geek.co.jp/
+	- http://www.job-cube.net/customize.html
+</details>
 
 ---
 
