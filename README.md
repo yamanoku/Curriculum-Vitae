@@ -72,6 +72,7 @@
 - WordPress
 - Git（CUI）
 	- Github
+		- [renovate](https://github.com/marketplace/renovate)
 	- BitBucket
 - shell
 	- zsh
@@ -96,10 +97,10 @@
 - ServerSide（Rust, Ruby, Python）
 
 ### エディター
-- Visual Studio Code *
-- Sublime Text
+- Visual Studio Code **
+- Sublime Text **
+- vim *
 - Atom
-- vim
 - Dreamweaver
 
 ### その他
@@ -195,36 +196,47 @@ https://scrapbox.io/yamanoku/portfolio
 <details>
 	<summary>対応案件 詳細</summary>
 
-- 社内求人サイト構築
-	- https://www.geek.co.jp/recruit/
-	- gulp, pug, postCSS, stylelint, webpack, jQuery, Google Maps
-- 某菓子メーカー公式コーポレートサイト リニューアル
-	- 静的実装、アクセシビリティ対応、Webパフォーマンス調整
-	- Vue, axios, owl.carousel, video.js, Masonry, imagesloaded, lity, intersection-observer
-- 糖尿病患者 アンケートフォーム システム開発
-	- React, TypeScript, gulp, webpack, less, Storybook
-- コーヒー販売・通販ショップ公式サイト 検索ページSPA構築
-	- wp-rest-api, Vue.js, vue-router, vue-paginate, axios
-- クラウド型人事管理システム開発
-	- React, Redux, stylus, ES6
-- 某携帯キャリア スマートフォン用アンケートページ モック作成
-	- React, creat-react-app, Redux Form
-- 模型・玩具メーカーエアソフトガンサイト 運用
-	- 一部ページリニューアルでVueを導入
-		- Vue.js, vue-carousel, axios
-- 某電気通信事業者 公式求人サイト構築・運用
-	- WordPress, jQuery, VanillaJS, babel, intersection-observer
-- 某ケーブルTV事業企業 ユーザーボイスページ制作
-	- JS Plugin - Masonry, Velocity
-- ウォールアートプリント販売サイト構築
-	- CakePHP, jQuery, CSS3
-- 某ケーブルTV事業配信 韓流番組情報サイト 保守・運用
-	- HTML5, CSS3, jQuery
-	- 特集ページ新規テンプレート作成
-	- 番組APIを利用したAjax通信
-- JOB-CUBE求人サイト構築・運用
-	- http://jobcube.geek.co.jp/
-	- http://www.job-cube.net/customize.html
+#### 社内求人サイト構築
+- https://www.geek.co.jp/recruit/
+- gulp, pug, postCSS, stylelint, webpack, jQuery, Google Maps
+
+#### 某菓子メーカー公式コーポレートサイト リニューアル
+- 静的実装、アクセシビリティ対応、Webパフォーマンス調整
+- Vue, axios, owl.carousel, video.js, Masonry, imagesloaded, lity, intersection-observer
+
+#### 糖尿病患者 アンケートフォーム システム開発
+- React, TypeScript, gulp, webpack, less, Storybook
+
+#### コーヒー販売・通販ショップ公式サイト 検索ページSPA構築
+- wp-rest-api, Vue.js, vue-router, vue-paginate, axios
+
+#### クラウド型人事管理システム開発
+- React, Redux, stylus, ES6
+
+#### 某携帯キャリア スマートフォン用アンケートページ モック作成
+- React, creat-react-app, Redux Form
+
+#### 模型・玩具メーカーエアソフトガンサイト 運用
+- 一部ページリニューアルでVueを導入
+	- Vue.js, vue-carousel, axios
+
+#### 某電気通信事業者 公式求人サイト構築・運用
+- WordPress, jQuery, VanillaJS, babel, intersection-observer
+
+#### 某ケーブルTV事業企業 ユーザーボイスページ制作
+- JS Plugin - Masonry, Velocity
+
+#### ウォールアートプリント販売サイト構築
+- CakePHP, jQuery, CSS3
+
+#### 某ケーブルTV事業配信 韓流番組情報サイト 保守・運用
+- HTML5, CSS3, jQuery
+- 特集ページ新規テンプレート作成
+- 番組APIを利用したAjax通信
+
+#### JOB-CUBE求人サイト構築・運用
+- http://jobcube.geek.co.jp/
+- http://www.job-cube.net/customize.html
 </details>
 
 ---
