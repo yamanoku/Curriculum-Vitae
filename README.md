@@ -19,7 +19,7 @@
 	- チーム内よりも他職務を巻き込んだ全体的な環境改善
 	- ボトルネックとなり得る問題点への追求
 - リファクタリングなどのコード品質改善、案件ごとのドキュメント、wiki整理
-   - 社内でのScrapbox導入、運用
+	- 社内でのScrapbox導入、運用
 - スケジュール・期日遵守への厳格な対応
 	- 工数算出時に具体的な実装コストについて非エンジニア業種に説明できる
 	- 仕事の進め方・対応に関して迅速であると評価を受ける
@@ -130,6 +130,8 @@ https://blog.geek.co.jp/archives/1877
 https://blog.geek.co.jp/archives/1983
 ### stylelint社内勉強会資料
 https://qiita.com/yamanoku/items/73ffecc8955b1fcbdcc7
+### 家庭内にScrapboxを導入してみる提案
+https://scrapbox.io/yamanoku/家庭内にScrapboxを導入してみる提案
 ### LT
 - [猫のすすめ](https://yamanoku.net/LT/lt01/)
 - [好きなことについて語るープロレスLT](https://yamanoku.net/LT/lt02/)
@@ -162,6 +164,26 @@ http://github.com/yamanoku
 	- CLIコマンドによるポートフォリオ
 	- npm package
 	- https://www.npmjs.com/package/yamanoku
+
+### これからはじめるWebアクセシビリティ
+[技術書典5](https://techbookfest.org/event/tbf05)にて販売したアクセシビリティの入門本。
+
+- 目次
+	- アクセシビリティってなんだろう
+	- 何のためにアクセシビリティ対応をするのか
+	- アクセシビリティ対応は何をやればいいのか
+	- HTMLを見直してみる
+	- role、ARIA属性のつかいかた
+	- 技術以外で考えるアクセシビリティ対策
+	- アクセシビリティ対応に役立つライブラリ・プラグイン・ソフト
+	- アクセシビリティ関連リンク
+
+[![Image from Gyazo](https://i.gyazo.com/bf7b22b3e820bbb41c7f6336a0cc26ca.jpg)](https://gyazo.com/bf7b22b3e820bbb41c7f6336a0cc26ca)
+
+- https://github.com/yamanoku/accessibility_book-issues
+	- 「これからはじめるWebアクセシビリティ」へのFB専用リポジトリ
+- https://booth.pm/ja/items/1044446
+	- BOOTHにて販売中
 
 ### Tumblr (Artworks)
 https://yamagraph.tumblr.com
@@ -199,6 +221,9 @@ https://scrapbox.io/yamanoku/portfolio
 #### 社内求人サイト構築
 - https://www.geek.co.jp/recruit/
 - gulp, pug, postCSS, stylelint, webpack, jQuery, Google Maps
+
+#### 某菓子メーカーファンサイト おみくじコンテンツサイト開発
+- pug, sass, webpack, CakePHP
 
 #### 某菓子メーカー公式コーポレートサイト リニューアル
 - 静的実装、アクセシビリティ対応、Webパフォーマンス調整
