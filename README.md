@@ -71,7 +71,7 @@
 	- eslint
 - WordPress
 - Git（CUI）
-	- Github
+	- GitHub
 		- [renovate](https://github.com/marketplace/renovate)
 	- BitBucket
 - shell
@@ -126,7 +126,7 @@ https://blog.geek.co.jp/archives/2411
 https://blog.geek.co.jp/archives/1309
 ### プレイバック・テック2017
 https://blog.geek.co.jp/archives/1877
-### HTMLからウェブサイトのあり方を見直す。
+### HTMLからウェブサイトのあり方を見直す
 https://blog.geek.co.jp/archives/1983
 ### stylelint社内勉強会資料
 https://qiita.com/yamanoku/items/73ffecc8955b1fcbdcc7
@@ -138,11 +138,11 @@ https://qiita.com/yamanoku/items/73ffecc8955b1fcbdcc7
 - [まもなく娘生誕２周年だよ全員集合](https://yamanoku.net/LT/lt05/)
 
 ## プライベートワーク
-### Github (Codes)
+### GitHub (Codes)
 http://github.com/yamanoku
 
 - Malachite
-	- Wordpressテーマ処女作
+	- WordPressテーマ処女作
 	- Docker-composeにて動作確認済み
 	- https://github.com/yamanoku/malachite
 - vue_portfolio_templete
