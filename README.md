@@ -132,6 +132,10 @@ https://blog.geek.co.jp/archives/1983
 https://qiita.com/yamanoku/items/73ffecc8955b1fcbdcc7
 ### 家庭内にScrapboxを導入してみる提案
 https://scrapbox.io/yamanoku/家庭内にScrapboxを導入してみる提案
+### outline: none;
+https://scrapbox.io/yamanoku/outline:_none;
+### scroll handlerを捨てよ、Intersection Observerへ出よう
+https://scrapbox.io/yamanoku/scroll_handlerを捨てよ、Intersection_Observerへ出よう
 ### LT
 - [猫のすすめ](https://yamanoku.net/LT/lt01/)
 - [好きなことについて語るープロレスLT](https://yamanoku.net/LT/lt02/)
@@ -192,7 +196,7 @@ https://yamagraph.tumblr.com
 https://scrapbox.io/yamanoku/portfolio
 
 ## 職務経歴
-### 株式会社GEEK - 2015/09 ～
+### 株式会社GEEK - 2015/09 ～ 2018/12
 |key|value|
 |---|-----|
 |職種|マークアップ・フロントエンドエンジニア|
@@ -222,7 +226,10 @@ https://scrapbox.io/yamanoku/portfolio
 - https://www.geek.co.jp/recruit/
 - gulp, pug, postCSS, stylelint, webpack, jQuery, Google Maps
 
-#### 某菓子メーカーファンサイト おみくじコンテンツサイト開発
+#### シニア向け求人サイト管理画面フォーム フロント実装
+- ES6, validatorjs, webpack4, WAI-ARIA, CSS Grid Layout
+
+#### 某菓子メーカーファンサイト おみくじコンテンツサイト フロント開発
 - pug, sass, webpack, CakePHP
 
 #### 某菓子メーカー公式コーポレートサイト リニューアル
