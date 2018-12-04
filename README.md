@@ -136,6 +136,9 @@ https://scrapbox.io/yamanoku/家庭内にScrapboxを導入してみる提案
 https://scrapbox.io/yamanoku/outline:_none;
 ### scroll handlerを捨てよ、Intersection Observerへ出よう
 https://scrapbox.io/yamanoku/scroll_handlerを捨てよ、Intersection_Observerへ出よう
+### プレイバック・テック2018
+https://blog.geek.co.jp/archives/2616
+
 ### LT
 - [猫のすすめ](https://yamanoku.net/LT/lt01/)
 - [好きなことについて語るープロレスLT](https://yamanoku.net/LT/lt02/)
