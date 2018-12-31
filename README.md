@@ -199,6 +199,8 @@ https://yamagraph.tumblr.com
 https://scrapbox.io/yamanoku/portfolio
 
 ## 職務経歴
+### 株式会社プレイド - 2019/01 〜
+
 ### 株式会社GEEK - 2015/09 ～ 2018/12
 |key|value|
 |---|-----|
