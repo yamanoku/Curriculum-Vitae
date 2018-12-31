@@ -201,6 +201,8 @@ https://scrapbox.io/yamanoku/portfolio
 ## 職務経歴
 ### 株式会社プレイド - 2019/01 〜
 
+WIP
+
 ### 株式会社GEEK - 2015/09 ～ 2018/12
 |key|value|
 |---|-----|
