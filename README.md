@@ -191,7 +191,9 @@ http://github.com/yamanoku
 - https://github.com/yamanoku/accessibility_book-issues
 	- 「これからはじめるWebアクセシビリティ」へのFB専用リポジトリ
 - https://booth.pm/ja/items/1044446
-	- BOOTHにて販売中
+	- BOOTHでの販売
+- https://note.mu/yamanoku/n/n3487a344ff84
+	- noteでの販売
 
 ### Tumblr (Artworks)
 https://yamagraph.tumblr.com
@@ -212,7 +214,7 @@ WIP
 |事業内容|Webフロントエンド開発・自社サービス開発|
 |従業員数|15名|
 
-#### 従業員内訳
+#### 従業員内訳（当時）
 - Webディレクター 6名
 - Webデザイナー 3名
 - マークアップ・フロントエンドエンジニア 6名（本人）
