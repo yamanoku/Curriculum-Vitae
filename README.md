@@ -129,7 +129,8 @@ https://blog.geek.co.jp/archives/1877
 ### HTMLからウェブサイトのあり方を見直す
 https://blog.geek.co.jp/archives/1983
 ### stylelint社内勉強会資料
-https://qiita.com/yamanoku/items/73ffecc8955b1fcbdcc7
+- https://qiita.com/yamanoku/items/73ffecc8955b1fcbdcc7
+- https://github.com/yamanoku/stylelint-boilerplate
 ### 家庭内にScrapboxを導入してみる提案
 https://scrapbox.io/yamanoku/家庭内にScrapboxを導入してみる提案
 ### outline: none;
