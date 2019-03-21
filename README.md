@@ -208,6 +208,16 @@ https://scrapbox.io/yamanoku/portfolio
 |---|-----|
 |職種|デザインエンジニア・アクセシビリティエヴァンジェリスト|
 |雇用形態|正社員|
+|事業内容|CX（顧客体験）プラットフォームKARTEの開発・提供|
+|従業員数|100名〜|
+<details>
+	<summary>対応案件 詳細</summary>
+
+#### KARTE TALK チーム (2019/01〜)
+- https://karte.io/product/talk/
+- トーク機能のデザイン再設計
+- 既存機能のマークアップ改修
+</details>
 
 ### 株式会社GEEK - 2015/09 ～ 2018/12
 |key|value|
