@@ -213,10 +213,13 @@ https://scrapbox.io/yamanoku/portfolio
 <details>
 	<summary>対応案件 詳細</summary>
 
-#### KARTE TALK チーム (2019/01〜)
+#### KARTE TALK チーム (2019/01〜03)
 - https://karte.io/product/talk/
 - トーク機能のデザイン再設計
 - 既存機能のマークアップ改修
+
+#### マーケティングチーム （2019/04~）
+- ティザーサイトマークアップ改修・開発環境リファクタリング
 </details>
 
 ### 株式会社GEEK - 2015/09 ～ 2018/12
