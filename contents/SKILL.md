@@ -1,0 +1,93 @@
+# Skills
+
+## スキル
+- html（W3C Conformance）
+	- html5
+	- pug (jade)
+	- xhtml
+- WAI-ARIA
+- CSS3
+	- Sass
+	- PostCSS
+	- stylus
+	- less
+	- csscomb
+- CSS Concept Design
+	- ECSS
+		- [ECSS Doc Translation](https://ecssdoc.yamanoku.net/)
+	- BEM
+	- FLOCSS
+- CSS Framework
+	- Bootstrap
+	- Material Design Lite
+	- skeleton
+- JavaScript
+	- Vue.js > 2.x
+		- Nuxt.js
+		- vue-router
+		- vue-meta
+		- vue-press
+	- React.js
+		- styled-components
+		- Redux
+		- Flux
+	- ES6
+	- VanillaJS
+	- jQuery > 3.x
+	- TypeScript
+	- Gulp => 4
+	- webpack
+	- Node.js
+		- yarn
+		- npm
+- Lint
+	- stylelint
+		- [@yamanoku/stylelint-config](https://www.npmjs.com/package/@yamanoku/stylelint-config)
+	- eslint
+- WordPress
+- Git（CUI）
+	- GitHub
+		- [renovate](https://github.com/marketplace/renovate)
+	- BitBucket
+- shell
+	- zsh
+	- bash
+- Circle CI
+- Travis CI
+- AWS
+	- Route53
+	- EC2
+	- Certificate Manager
+- Netlify
+- Docker
+	- docker-compose
+- Heroku
+
+## Studying
+- PWA（Service Worker、Workbox）
+- Inclusive design
+- Web Security Skill（XSS, SRI, ...etc）
+- BlockChain
+- API Design（REST FUL, GraphQL）
+- ServerSide（Rust, Ruby, Python）
+
+## エディター
+- Visual Studio Code **
+- Sublime Text **
+- vim *
+- Atom
+- Dreamweaver
+
+## その他
+- Scrapbox
+- backlog
+- iTerm
+- Adobe Photoshop
+- Adobe Illustrator
+- Gyazo (Gif)
+- Slack
+- chatwork
+- Trello
+- Sketch
+- Zeplin
+- Prott
