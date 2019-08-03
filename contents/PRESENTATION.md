@@ -1,5 +1,9 @@
 # Presentation
 
+## 登壇
+- [Vue.js meets Web Accessibility](https://vuefes.jp/2019/sessions/yamanoku/)
+  - [Vue Fes Japan 2019](https://vuefes.jp/2019/)
+
 ## 資料
 - [Material Designとは何かを知る会](https://speakerdeck.com/yamanoku/material-designtohahe-kawozhi-ruhui)
 - stylelint社内勉強会
