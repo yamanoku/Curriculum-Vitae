@@ -25,15 +25,15 @@
 	- 仕事の進め方・対応に関して迅速であると評価を受ける
 - 他者の技術など応用ができそうなものは積極的に取り入れる
 
-## プライベートワーク
-[WORKS.md](contents/WORKS.md)
+## 職務経歴
+[CAREER.md](contents/CAREER.md)
 
 ## スキル
-[SKILL.md](contents/SKILL.md)
+[SKILL_Set（Scrapbox）](https://scrapbox.io/yamanoku/Skill_Sets)
 
 ## 寄稿・スライドなど
 [PRESENTATION.md](contents/PRESENTATION.md)
 
-## 職務経歴
-[CAREER.md](contents/CAREER.md)
+## プライベートワーク
+[WORKS.md](contents/WORKS.md)
 
