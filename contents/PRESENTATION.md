@@ -1,5 +1,9 @@
 # Presentation
 
+## 登壇
+- Roppongi.vue #4 Vue.js × A11y
+  - [登壇映像](https://www.youtube.com/watch?v=e8thOaizpiY)
+
 ## 資料
 - [Material Designとは何かを知る会](https://speakerdeck.com/yamanoku/material-designtohahe-kawozhi-ruhui)
 - stylelint社内勉強会
@@ -12,6 +16,8 @@
 - [HTMLからウェブサイトのあり方を見直す](https://scrapbox.io/yamanoku/HTML%E3%81%8B%E3%82%89%E3%82%A6%E3%82%A7%E3%83%96%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AE%E3%81%82%E3%82%8A%E6%96%B9%E3%82%92%E8%A6%8B%E7%9B%B4%E3%81%99)
 - [Nota社主催でScrapbox勉強会をやってもらった話](https://blog.geek.co.jp/archives/2411)
 - [PlayBackTech2018](https://scrapbox.io/yamanoku/PlayBackTech2018)
+- [みんなに知ってもらいたいデザインシステムのこと](https://note.com/yamanoku/n/n8acc38df2902)
+- [Vue.jsから考えるアクセシビリティ](https://yamanoku.net/vue-a11y/)
 
 ## LT
 
@@ -30,4 +36,5 @@
 - [denoについて調べたことを共有する](https://scrapbox.io/yamanoku/deno%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%AA%BF%E3%81%B9%E3%81%9F%E3%81%93%E3%81%A8%E3%82%92%E5%85%B1%E6%9C%89%E3%81%99%E3%82%8B) - We Are JavaScripters! @33rd
 - [stylelint-a11yについて調べてわかったこと](https://scrapbox.io/yamanoku/stylelint-a11y%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%AA%BF%E3%81%B9%E3%81%A6%E3%82%8F%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%93%E3%81%A8) - タピオカLT
 - [Design Tokensを考える前に俺たちは変数名について考え直すことがあるのではないか](https://scrapbox.io/yamanoku/Design_Tokens%E3%82%92%E8%80%83%E3%81%88%E3%82%8B%E5%89%8D%E3%81%AB%E4%BF%BA%E3%81%9F%E3%81%A1%E3%81%AF%E5%A4%89%E6%95%B0%E5%90%8D%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%80%83%E3%81%88%E7%9B%B4%E3%81%99%E3%81%93%E3%81%A8%E3%81%8C%E3%81%82%E3%82%8B%E3%81%AE%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%84%E3%81%8B) - Meguro.css #7
-
+- [ぼくとScrapboxと2019](https://scrapbox.io/yamanoku/%E3%81%BC%E3%81%8F%E3%81%A8Scrapbox%E3%81%A82019) - Scrapbox Drinkup #11
+- [自分の周辺情報をまとめる静的サイトをつくった](https://scrapbox.io/yamanoku/%E8%87%AA%E5%88%86%E3%81%AE%E5%91%A8%E8%BE%BA%E6%83%85%E5%A0%B1%E3%82%92%E3%81%BE%E3%81%A8%E3%82%81%E3%82%8B%E9%9D%99%E7%9A%84%E3%82%B5%E3%82%A4%E3%83%88%E3%82%92%E3%81%A4%E3%81%8F%E3%81%A3%E3%81%9F) - つくばexpress.js #1
