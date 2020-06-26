@@ -15,9 +15,6 @@
 ## 職務経歴
 [CAREER.md](contents/CAREER.md)
 
-## スキル
-[SKILL_Set（Scrapbox）](https://scrapbox.io/yamanoku/Skill_Sets)
-
 ## 寄稿・スライドなど
 [PRESENTATION.md](contents/PRESENTATION.md)
 
