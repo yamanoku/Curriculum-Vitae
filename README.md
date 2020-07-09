@@ -1,17 +1,5 @@
 # 職務経歴書
 
-## 基本情報
-
-|key|value|
-|---|-----|
-|Name|<ruby><rb>大山 奥人<rb><rt>おおやま おくと</rt></ruby>|
-|Site|[yamanoku.net](https://yamanoku.net/)|
-|scrapbox|[scrapbox.io/yamanoku/](https://scrapbox.io/yamanoku/)|
-|Twitter|[@yamanoku](https://twitter.com/yamanoku)|
-|Qiita|[yamanoku](https://qiita.com/yamanoku)|
-|Facebook|[yamanoku](https://www.facebook.com/yamanoku)|
-|Tumblr|[yamanoku](https://tumblr.yamanoku.net/)|
-
 ## 職務経歴
 
 ### 株式会社クラウドワークス - 2019/10
