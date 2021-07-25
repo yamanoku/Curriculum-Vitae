@@ -39,7 +39,7 @@
 2021年上期（2020/9~2021/3）において全社MVP受賞。<br />
 関連：[プロフィールの性別欄で「回答しない」を選べるようになりました | クラウドワークス　お知らせブログ](https://blog.crowdworks.jp/?p=4222)
 
-[カンタン発注プラン診断](https://crowdworks.jp/order_plan_diagnoses)診断機能の開発
+[カンタン発注プラン診断](https://crowdworks.jp/order_plan_diagnoses)診断機能の開発<br />
 関連：[クラウドワークス、業界初「カンタン発注プラン診断」機能を公開｜株式会社クラウドワークスのプレスリリース](https://prtimes.jp/main/html/rd/p/000000059.000050142.html)
 
 - スクラム開発の実施
