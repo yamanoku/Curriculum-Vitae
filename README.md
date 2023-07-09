@@ -21,7 +21,8 @@
 - 2021/10~2022/02 にかけて使用されている Vue.js の v2 から v3 への移行を完了<br />関連：[Vue 2 からVue 3 に移行完了しました！ - クラウドワークス エンジニアブログ](https://engineer.crowdworks.jp/entry/migrate-vue3)
 - Rails テンプレートエンジンから Vue.js への移行作業を開始<br />Vue3 環境を活かし`<script setup>` で記述
 - markuplint ルールを拡充して堅牢な HTML マークアップをできるように整備
-- npm モジュールの内容整理、更新確認作業
+- Webpacker から webpack + Simpacker 環境への移行（[記事](https://engineer.crowdworks.jp/entry/thanks_webpacker_goodbye_webpacker)）
+- Vue3 環境下での Storybook バージョンアップ（[記事](https://zenn.dev/yamanoku/scraps/b9b993c77e2b1b)）
 
 
 #### フロントエンドサブチーム（2021/06~2021/10）
