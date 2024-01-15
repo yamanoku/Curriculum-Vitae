@@ -40,10 +40,11 @@
 - [crowdworks.jp のフロントエンド活動を振り返る 2021 #フロントエンド - Qiita](https://qiita.com/yamanoku/items/29a74ebf3d74b3017581)
 - [クラウドワークスのフロントエンド活動を振り返る 2020 - クラウドワークス エンジニアブログ](https://engineer.crowdworks.jp/entry/crowdworks_frontend_2020)
 
-カンファレンスへの参加やスポンサー協賛を通じて弊社のフロントエンド開発と社外との関係構築も行っております。
+勉強会・カンファレンスへの参加やスポンサー協賛を通じて弊社のフロントエンド開発と社外との関係構築も行っております。
 
 - [Vue Fes Japan Online 2022 参加レポート - クラウドワークス エンジニアブログ](https://engineer.crowdworks.jp/entry/report-vue-fes-japan-online-2022)
 - [GAAD Japan 2022 でスポンサー協賛と LT をしてきました - クラウドワークス エンジニアブログ](https://engineer.crowdworks.jp/entry/gaad-japan-2022)
+- [当事者不在でも変化してきたクラウドワークスのフロントエンド開発について - Google スライド](https://docs.google.com/presentation/d/1iWKz3rc9ObcfrNd7hYcYPYKm9EZ6DCAo0f2LBI2uteE/edit)
 - [Vue Fes Japan 2023 参加レポート - クラウドワークス エンジニアブログ](https://engineer.crowdworks.jp/entry/report-vue-fes-japan-2023)
 
 #### プロダクト本部 プロダクト開発部 プラットフォーム開発 開発1グループ 施策開発チーム（2020/08〜2021/10）
